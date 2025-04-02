@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "856037366349",
+    "project_id": "notification-53aa3",
+    "storage_bucket": "notification-53aa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856037366349:android:6f23f4bc4773dc4b26da04",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCJXtOECn1NXei12ewJLyyZyR-maL_5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856037366349:android:4b1c45d5f7bf6a5a26da04",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications_firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCJXtOECn1NXei12ewJLyyZyR-maL_5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856037366349:android:2fe220035aaec65826da04",
+        "android_client_info": {
+          "package_name": "com.example.sample_flutter_firebase_notifications_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCJXtOECn1NXei12ewJLyyZyR-maL_5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
